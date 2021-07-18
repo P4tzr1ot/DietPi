@@ -7,11 +7,6 @@
 	
 </p>
 <hr>
-<p align="center">
-	<strong>Ready to run</strong> optimised software choices with <a href="https://dietpi.com/dietpi-software.html" target="_blank" rel="noopener"><strong>dietpi-software</strong></a>
-	<br>Feature-rich configuration tool for your device with <strong>dietpi-config</strong>.
-</p>
-<hr>
 
 ## Introduction
 
