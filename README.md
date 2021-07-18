@@ -15,17 +15,10 @@
 
 ## Introduction
 
-DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential. 
+This is a FORK of DietPi, an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential. 
 
-The **dietpi programs** use lightweight whiptail menus. You'll spend more time enjoying DietPi and applications you need and less time staring at the command line.
 
-Use `dietpi-software` to quick and easy install **Ready to Run** & **Optimised** applications for your system. DietPi will do all the necessary configurations, including starting the services. Few highlights: [Desktop Environments](https://dietpi.com/docs/software/desktop/), [Remote Desktop Access](https://dietpi.com/docs/software/remote_desktop/), [Media Systems & Players](https://dietpi.com/docs/software/media/), [BitTorrent & Downloading](https://dietpi.com/docs/software/bittorrent/), [Cloud & Backup](https://dietpi.com/docs/software/cloud/), [Gaming & Emulation](https://dietpi.com/docs/software/gaming/), [Social & Search](https://dietpi.com/docs/software/social/), [Camera & Surveillance](https://dietpi.com/docs/software/camera/), [Networking](https://dietpi.com/docs/software/advanced_networking/), [System Stats & Management](https://dietpi.com/docs/software/system_stats/), [Home Automation](https://dietpi.com/docs/software/home_automation/), [Hardware & Voice Projects](https://dietpi.com/docs/software/hardware_projects/), [Webserver Stacks](https://dietpi.com/docs/software/webserver_stack/), [DNS Servers / Pi-hole](https://dietpi.com/docs/software/dns_servers/), [File Servers](https://dietpi.com/docs/software/file_servers/), [Printing](https://dietpi.com/docs/software/printing/) and much more.
-
-Use `dietpi-services` to control which installed software has higher or lower priority levels (nice, affinity, policy scheduler).
-
-`dietpi-update` automatically checks for updates and informs you when they are available. Update instantly, without having to write a new image. **DietPi automation** allows you to completely automate a DietPi installation with no user input, simply by configuring `dietpi.txt` before powering on.
-
-## The DietPi Project Team
+## Thanks to The DietPi Project Team
 
 ### Contributors
 
